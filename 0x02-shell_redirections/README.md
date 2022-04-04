@@ -6,3 +6,4 @@ this script the 10 newest files in the current directory
 thi scriptcreatesa list of words as input and prinsonly words thatappear e
 this script creates a list of words as input and prints only words that appear exactly once
 this script creates a list of words as input and prints only words that appear exactly as output
+this script displays lines containing a pattern from the file
