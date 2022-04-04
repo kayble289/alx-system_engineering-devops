@@ -9,3 +9,4 @@ this script creates a list of words as input and prints only words that appear e
 this script displays lines containing a pattern from the file
 this script displays the number of lines that contain a pattern
 this script displays a pattern and 3 lines after them in the file
+this script displays all the lines in a file that do not contain a pattern
