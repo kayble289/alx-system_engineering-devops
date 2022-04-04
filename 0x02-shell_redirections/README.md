@@ -12,3 +12,4 @@ this script displays a pattern and 3 lines after them in the file
 this script displays all the lines in a file that do not contain a pattern
 this script displays all lines of the file starting with a letter
 this script replaces some characters from input to other characters
+this script removes all letter c from input
