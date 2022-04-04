@@ -3,3 +3,6 @@ this script deletes all regular files with a js extension present in the working
 this script counts the number of directories and subdirectories in the current directory
 this script displays a confused smiley
 this script the 10 newest files in the current directory
+thi scriptcreatesa list of words as input and prinsonly words thatappear e
+this script creates a list of words as input and prints only words that appear exactly once
+this script creates a list of words as input and prints only words that appear exactly as output
