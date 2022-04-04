@@ -9,3 +9,5 @@ this script prints the contents of two files
 this script prints the last line of a file
 this displays first ten lines of the file
 this displays the third line of the file
+this script creates a non-empty file and names it exactly
+this script creates a non-empty file with exact name and content you give it
