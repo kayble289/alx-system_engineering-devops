@@ -8,3 +8,4 @@ this script creates a list of words as input and prints only words that appear e
 this script creates a list of words as input and prints only words that appear exactly as output
 this script displays lines containing a pattern from the file
 this script displays the number of lines that contain a pattern
+this script displays a pattern and 3 lines after them in the file
