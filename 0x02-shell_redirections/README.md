@@ -14,3 +14,4 @@ this script displays all lines of the file starting with a letter
 this script replaces some characters from input to other characters
 this script removes all letter c from input
 this script reverses its input
+this script displays users and their home directories sorted by users
