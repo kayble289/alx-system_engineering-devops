@@ -9,3 +9,4 @@ this script creates a new global variable
 this script prints the result of the addition of 128 and the value stored in the environment variable
 this script prints the result of power divided by divide
 this script displays the result of breath to the power of love
+this script converts a number from base 2 to base 10
