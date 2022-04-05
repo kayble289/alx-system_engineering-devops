@@ -19,3 +19,4 @@ this script displays users and their home directories sorted by users
 this script displays users and their home directories sorted by users
 this command finds all empty files and directories in the current directory
 this lists all the files with a gif extension in the working directory
+this script decodes acrostics that use the first letter of each line
