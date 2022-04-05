@@ -11,3 +11,4 @@ this script prints the result of power divided by divide
 this script displays the result of breath to the power of love
 this script converts a number from base 2 to base 10
 this script prints all possible combination of two letters except oo
+this script prints a number with two decimal places
