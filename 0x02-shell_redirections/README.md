@@ -24,3 +24,4 @@ this parses the servers in TSV format as input and shows 11 hosts which did the 
 this program parses servers in TSV format as input and displays the host address that did the most requests
 this command prints a confused smiley
 this command creates a file with the exact name given including the content
+this command prints all users and their home directories sorted by users
