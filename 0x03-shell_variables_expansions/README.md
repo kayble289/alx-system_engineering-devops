@@ -14,3 +14,4 @@ this script prints all possible combination of two letters except oo
 this script prints a number with two decimal places
 this script converts a number from base 10 to base 16
 this script encodes and decodes texts using the rot13 encryption
+this script prints every other line from the input starting with the first line
