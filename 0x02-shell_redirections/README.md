@@ -17,3 +17,4 @@ this script reverses its input
 this script displays users and their home directories sorted by users
 this script displays users and their home directories sorted by users
 this script displays users and their home directories sorted by users
+this command finds all empty files and directories in the current directory
